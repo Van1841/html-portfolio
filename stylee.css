@@ -1,0 +1,88 @@
+.intro{
+    padding:260px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #860A35;
+    ;
+}
+h2{
+    font-family:Agbalumo
+}
+.pink{
+  color:palevioletred;
+  padding-top: 0%;
+}
+h1{
+    font-family:dancing;
+}
+.body{
+    margin:0;
+    padding:0;
+}
+.hero{
+  background-color: #FFD2D7;
+  padding-top: 0%;
+}
+
+.containerr{
+    background-image: url("img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:0;
+    margin:0;
+    min-height:800px;
+    min-width: 100px;
+  }
+  .spacing{
+    padding:20px;
+
+  }
+  .space{
+    padding-bottom: 30px;
+  }
+
+  .d-block{
+    border-radius: 100%;
+  }
+  
+  .display-5{
+    font-family: dancing;
+  }
+
+  .hero{
+    background-color: #FFD2D7;
+  }
+
+  .edu{
+    font-family:dancing;
+  }
+
+.skills{
+  text-align: center;
+  
+}
+.lefty>h3{
+  color:palevioletred;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.soft{
+  float:left; 
+  padding-right: 20px; 
+
+}
+.skilled{
+  
+  text-align: justify;
+}
+
+.heading{
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+li{
+  text-align: justify;
+}
+.foot{
+  background-color:#FFD2D7 ;
+}
+
